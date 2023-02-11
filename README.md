@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mbkusharki
-- 👀 I’m interested in Data Analytics and Machine Learning
-- 🌱 I’m currently learning Power BI and Python
-- 💞️ I’m looking to collaborate on any project that is related to Data Analytics and Machine Learning
+- 👀 I’m interested in Data Science, AI and Software Testing
+- 🌱 I’m currently learning Sothware testing
+- 💞️ I’m looking to collaborate on any project that is related to my interest
 - 📫 How to reach me via email: mbkusharki@ndc.gov.ng
 
 <!---
